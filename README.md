@@ -147,3 +147,7 @@ RL-snack
    - 在游戏循环中，不断获取当前游戏状态，传入模型，获取模型的输出作为动作，然后更新游戏状态，绘制游戏界面，显示贪吃蛇长度和奖励等信息。
    - 检测游戏是否结束，若结束则重置游戏状态。
 3. 主程序部分，通过调用 `run_snake_game` 函数来运行贪吃蛇游戏。
+
+## 参考
+https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/Snake-Pygame-DQN
+
