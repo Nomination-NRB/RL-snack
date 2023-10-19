@@ -148,6 +148,17 @@ RL-snack
    - 检测游戏是否结束，若结束则重置游戏状态。
 3. 主程序部分，通过调用 `run_snake_game` 函数来运行贪吃蛇游戏。
 
+
+## 训练结果
+
+![image](./outputImage/drawAvgAndMaxLen.png)
+
+![image](./outputImage/drawMaxHist.png)
+
+![image](./outputImage/drawScores.png)
+
+
+
 ## 参考
 https://github.com/Rafael1s/Deep-Reinforcement-Learning-Algorithms/tree/master/Snake-Pygame-DQN
 
